@@ -1,0 +1,43 @@
+Arguments: 
+  /Users/lap01568/.nvm/versions/node/v12.21.0/bin/node /Users/lap01568/.nvm/versions/node/v12.21.0/bin/yarn add @iqiyi/liteapp-base @iqiyi/liteapp-cli
+
+PATH: 
+  /Users/lap01568/.nvm/versions/node/v12.21.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/lap01568/.nvm/versions/node/v12.21.0/bin:/Users/lap01568/.cargo/bin:/usr/local/bin/code:/usr/local/bin/code-insidersfpath+=/Users/lap01568/.zsh_functions:/Users/lap01568/Library/Android/sdk/emulator:/Users/lap01568/Library/Android/sdk/tools:/Users/lap01568/Library/Android/sdk/tools/bin:/Users/lap01568/Library/Android/sdk/platform-tools:/Users/lap01568/flutter/bin:/usr/local/bin/code:/usr/local/bin/code-insidersfpath+=/Users/lap01568/.zsh_functions:/Users/lap01568/Library/Android/sdk/emulator:/Users/lap01568/Library/Android/sdk/tools:/Users/lap01568/Library/Android/sdk/tools/bin:/Users/lap01568/Library/Android/sdk/platform-tools:/Users/lap01568/flutter/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.21.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@iqiyi%2fliteapp-base: Not found
+      at Request.params.callback [as _callback] (/Users/lap01568/.nvm/versions/node/v12.21.0/lib/node_modules/yarn/lib/cli.js:66988:18)
+      at Request.self.callback (/Users/lap01568/.nvm/versions/node/v12.21.0/lib/node_modules/yarn/lib/cli.js:140662:22)
+      at Request.emit (events.js:314:20)
+      at Request.<anonymous> (/Users/lap01568/.nvm/versions/node/v12.21.0/lib/node_modules/yarn/lib/cli.js:141634:10)
+      at Request.emit (events.js:314:20)
+      at IncomingMessage.<anonymous> (/Users/lap01568/.nvm/versions/node/v12.21.0/lib/node_modules/yarn/lib/cli.js:141556:12)
+      at Object.onceWrapper (events.js:420:28)
+      at IncomingMessage.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+npm manifest: 
+  {
+    "name": "my-project",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Ly Luong Thien",
+    "license": "UNLICENSED",
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

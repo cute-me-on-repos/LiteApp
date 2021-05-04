@@ -1,0 +1,5 @@
+{
+  "packages": ["mp-fe/*"],
+  "version": "0.0.1",
+  "npmClient": "yarn"
+}

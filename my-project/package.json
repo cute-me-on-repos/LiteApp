@@ -1,0 +1,8 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ly Luong Thien",
+  "license": "UNLICENSED",
+  "private": true
+}
